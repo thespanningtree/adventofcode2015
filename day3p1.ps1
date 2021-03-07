@@ -1,0 +1,1 @@
+$directions = get-content C:\repo\adventofcode2015\inputd3.txt
